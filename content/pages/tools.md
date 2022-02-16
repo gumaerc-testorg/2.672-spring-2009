@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 713b619d-ad80-8a4a-69c3-88a205f93170
 ---
@@ -34,10 +37,10 @@ pwrspect.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-
 Analysis of power spectrum.
 
 steam\_p.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/steam_p.m))  
-Saturation properties for H2O; output saturation pressure.
+Saturation properties for H{{< sub "2" >}}O; output saturation pressure.
 
 steam\_t.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/steam_t.m))  
-Saturation properties for H2O; output saturation temperature.
+Saturation properties for H{{< sub "2" >}}O; output saturation temperature.
 
 fig\_h.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/fig_h.m))  
 Utility to make MATLAB plots better for importing into reports.

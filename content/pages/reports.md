@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Reports
 uid: 0efba94d-64b2-cbfb-4346-0684ec064a4d
 ---

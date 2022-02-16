@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: fd614745-fc1f-6cb1-a422-ffc6befbbdd1
 ---
@@ -24,6 +27,6 @@ The **complete laboratory manual**, containing all seven experiments listed abov
 
 _Lab Equipment_
 ---------------
-{{< image-gallery id="fd614745-fc1f-6cb1-a422-ffc6befbbdd1_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-672-project-laboratory-spring-2009/" >}}
+{{< image-gallery id="fd614745-fc1f-6cb1-a422-ffc6befbbdd1_nanogallery2" baseUrl="/courses/2-672-project-laboratory-spring-2009/" >}}
 {{< image-gallery-item href="1e71f50341ca4edaed808517ac7a58d8_full-lab.jpg" data-ngdesc="Each 2.672 experiment is installed on its own bench. Lab #6 is frontmost in the picture." text="Each 2.672 experiment is installed on its own bench. Lab #6 is frontmost in the picture." >}}
 {{</ image-gallery >}}

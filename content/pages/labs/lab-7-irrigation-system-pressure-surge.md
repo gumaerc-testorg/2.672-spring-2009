@@ -1,13 +1,17 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fd614745-fc1f-6cb1-a422-ffc6befbbdd1
 title: 'Lab 7: Irrigation System Pressure Surge'
 uid: f3654a02-f9c7-f959-3a2d-29255c70d745
 ---
 
 [Lab Equipment]({{< baseurl >}}/pages/labs) | [Experiment 1]({{< baseurl >}}/pages/labs/lab-1-proximity-heating-of-silicon-wafer) | [Experiment 2]({{< baseurl >}}/pages/labs/lab-2-transfer-line-dynamics) | [Experiment 3]({{< baseurl >}}/pages/labs/lab-3-heat-exchanger-tube-vibrations) | [Experiment 4]({{< baseurl >}}/pages/labs/lab-4-pipe-clearing-fluid-transients) | [Experiment 5]({{< baseurl >}}/pages/labs/lab-5-irradiation-sample-transfer-line-snubbing-section-behavior) | [Experiment 6]({{< baseurl >}}/pages/labs/lab-6-peak-pressure-in-nuclear-containment-vessel)
-{{< image-gallery id="f3654a02-f9c7-f959-3a2d-29255c70d745_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-672-project-laboratory-spring-2009/" >}}
+{{< image-gallery id="f3654a02-f9c7-f959-3a2d-29255c70d745_nanogallery2" baseUrl="/courses/2-672-project-laboratory-spring-2009/" >}}
 {{< image-gallery-item href="f939877846fec3f726f4028e4b4b85eb_lab7-1.jpg" data-ngdesc="Lab 7 apparatus (right to left): valves for selecting different pipes, water supply control panel, lengths of pipe, valve with pressure gauge port." text="Lab 7 apparatus (right to left): valves for selecting different pipes, water supply control panel, lengths of pipe, valve with pressure gauge port." >}}
 {{< image-gallery-item href="e18064fc8048613310ee5991d4b60aab_lab7-2.jpg" data-ngdesc="To begin the experiment, open the water supply valve (black). Select the desired pipe by opening its valve." text="To begin the experiment, open the water supply valve (black). Select the desired pipe by opening its valve." >}}
 {{< image-gallery-item href="5ab2f3ded97af3dc126bcda459f93a25_lab7-3.jpg" data-ngdesc="Each pipe is labeled with its length and inner diameter." text="Each pipe is labeled with its length and inner diameter." >}}
