@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fd614745-fc1f-6cb1-a422-ffc6befbbdd1
 resourcetype: Document
 title: Laboratory Manual
 uid: 53206bde-99ae-dacc-752a-b18c379050f8

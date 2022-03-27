@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lab 7: Irrigation System Pressure Surge'
 parent_type: CourseSection
+parent_uid: f3654a02-f9c7-f959-3a2d-29255c70d745
 resourcetype: Image
 title: Lab 7-5
 uid: 1954c60a-3c68-00ce-4e1f-b5f3b12a1651

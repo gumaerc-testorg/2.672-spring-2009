@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 713b619d-ad80-8a4a-69c3-88a205f93170
 resourcetype: Image
 title: Full Lab
 uid: a01e286e-1b34-518a-d343-5d66c745f3c2

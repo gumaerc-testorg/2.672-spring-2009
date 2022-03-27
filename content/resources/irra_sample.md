@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fd614745-fc1f-6cb1-a422-ffc6befbbdd1
 resourcetype: Document
 title: 'Experiment 5: Irradiation Sample Transfer Line Snubbing Section Behavior'
 uid: 29726f1a-6ebb-2441-cb53-936e5b6f962f

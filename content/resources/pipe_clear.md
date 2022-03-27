@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fd614745-fc1f-6cb1-a422-ffc6befbbdd1
 resourcetype: Document
 title: 'Experiment 4: Pipe Clearing Fluid Transients'
 uid: 548a0f39-7b4c-7f44-08d0-d580bf8e25d8

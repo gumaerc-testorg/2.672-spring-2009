@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reports
 parent_type: CourseSection
+parent_uid: 0efba94d-64b2-cbfb-4346-0684ec064a4d
 resourcetype: Document
 title: Guide to Lab Report Writing
 uid: cd88e040-e85c-19bb-3106-a1088a718492

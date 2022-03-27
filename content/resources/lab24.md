@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 713b619d-ad80-8a4a-69c3-88a205f93170
 resourcetype: Image
 title: Lab 2-4
 uid: 1df543c4-38ba-4354-4e47-8af009dc8570

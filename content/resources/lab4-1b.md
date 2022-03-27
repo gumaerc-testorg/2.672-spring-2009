@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lab 5: Irradiation Sample Transfer Line Snubbing Section Behavior'
 parent_type: CourseSection
+parent_uid: c4a5e473-7f7d-2689-af8f-aebfe779189c
 resourcetype: Image
 title: Lab 4-1b
 uid: 4629ccb5-ac26-a9aa-962e-c402b6f38cbb

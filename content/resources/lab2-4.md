@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lab 2: Transfer Line Dynamics'
 parent_type: CourseSection
+parent_uid: e42e999c-9cd7-e012-66c9-5f22e3bad0ef
 resourcetype: Image
 title: Lab 2-4
 uid: 95730859-a9e4-9964-c65b-8997fedea9ba

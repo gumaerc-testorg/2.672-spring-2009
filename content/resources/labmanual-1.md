@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 713b619d-ad80-8a4a-69c3-88a205f93170
 resourcetype: Document
 title: MATLAB for 2.672
 uid: 5440e508-a101-846d-7538-e729eb3e10db

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reports
 parent_type: CourseSection
+parent_uid: 0efba94d-64b2-cbfb-4346-0684ec064a4d
 resourcetype: Document
 title: 'Page Layout Diagram: Text Page'
 uid: 68b35e1f-2600-d50d-7ad9-115d764b2b08

@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lab 6: Peak Pressure in Nuclear Containment Vessel'
 parent_type: CourseSection
+parent_uid: 9c7a5a8e-96be-bc54-1007-a45bf3261147
 resourcetype: Image
 title: Lab 5-1
 uid: 1ceaea8d-aee9-ecf2-bbe5-7ff9d0eb5028

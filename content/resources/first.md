@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reports
 parent_type: CourseSection
+parent_uid: 0efba94d-64b2-cbfb-4346-0684ec064a4d
 resourcetype: Document
 title: 'Page Layout Diagram: First Page'
 uid: 047e4ee7-7f43-a66d-47ec-e3343bd18a41

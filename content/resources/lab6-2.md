@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lab 3: Heat Exchanger Tube Vibrations'
 parent_type: CourseSection
+parent_uid: 042bd21e-b090-206a-b8f9-deead93d605d
 resourcetype: Image
 title: Lab 6-2
 uid: 32fc56cf-36a3-5d81-ad62-77e6a9c7a314

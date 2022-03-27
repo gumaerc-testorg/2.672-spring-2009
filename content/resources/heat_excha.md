@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fd614745-fc1f-6cb1-a422-ffc6befbbdd1
 resourcetype: Document
 title: 'Experiment 3: Heat Exchanger Tube Vibrations'
 uid: cd13cb2a-88a8-35e9-51c3-ba9208a61792

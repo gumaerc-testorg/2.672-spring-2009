@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lab 4: Pipe Clearing Fluid Transients'
 parent_type: CourseSection
+parent_uid: 94c97e21-4f49-3c35-e878-0062726a2272
 resourcetype: Image
 title: Lab 3-1
 uid: d156a47b-bbf0-c849-19e4-7b89537ef1b3
