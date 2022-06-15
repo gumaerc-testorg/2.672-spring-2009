@@ -4,7 +4,7 @@ description: Supporting MATLAB file for the lab experiments of the course. This 
   a MATLAB function that takes a data file collected by Labview, displays the data
   and then assigns the variable t to the time track and the variable v to the voltage
   track.
-file: /media/courses/2-672-project-laboratory-spring-2009/ce825e556d79a2c1f1479e27aacceca3_getdata.m
+file: /courses/2-672-project-laboratory-spring-2009/ce825e556d79a2c1f1479e27aacceca3_getdata.m
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -16,3 +16,5 @@ resourcetype: Other
 title: getdata
 uid: ce825e55-6d79-a2c1-f147-9e27aacceca3
 ---
+Supporting MATLAB file for the lab experiments of the course. This is a MATLAB function that takes a data file collected by Labview, displays the data and then assigns the variable t to the time track and the variable v to the voltage track.
+

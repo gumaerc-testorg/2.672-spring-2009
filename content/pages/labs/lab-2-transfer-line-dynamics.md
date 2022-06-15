@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: fd614745-fc1f-6cb1-a422-ffc6befbbdd1
 title: 'Lab 2: Transfer Line Dynamics'
 uid: e42e999c-9cd7-e012-66c9-5f22e3bad0ef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-[Lab Equipment]({{< baseurl >}}/pages/labs) | [Experiment 1]({{< baseurl >}}/pages/labs/lab-1-proximity-heating-of-silicon-wafer) | [Experiment 3]({{< baseurl >}}/pages/labs/lab-3-heat-exchanger-tube-vibrations) | [Experiment 4]({{< baseurl >}}/pages/labs/lab-4-pipe-clearing-fluid-transients) | [Experiment 5]({{< baseurl >}}/pages/labs/lab-5-irradiation-sample-transfer-line-snubbing-section-behavior) | [Experiment 6]({{< baseurl >}}/pages/labs/lab-6-peak-pressure-in-nuclear-containment-vessel) | [Experiment 7]({{< baseurl >}}/pages/labs/lab-7-irrigation-system-pressure-surge)
+{{% resource_link fd614745-fc1f-6cb1-a422-ffc6befbbdd1 "Lab Equipment" %}} | {{% resource_link 4de95e94-86ea-a80f-f18a-d7016769b4d9 "Experiment 1" %}} | {{% resource_link 042bd21e-b090-206a-b8f9-deead93d605d "Experiment 3" %}} | {{% resource_link 94c97e21-4f49-3c35-e878-0062726a2272 "Experiment 4" %}} | {{% resource_link c4a5e473-7f7d-2689-af8f-aebfe779189c "Experiment 5" %}} | {{% resource_link 9c7a5a8e-96be-bc54-1007-a45bf3261147 "Experiment 6" %}} | {{% resource_link f3654a02-f9c7-f959-3a2d-29255c70d745 "Experiment 7" %}}
 {{< image-gallery id="e42e999c-9cd7-e012-66c9-5f22e3bad0ef_nanogallery2" baseUrl="/courses/2-672-project-laboratory-spring-2009/" >}}
 {{< image-gallery-item href="af3d5c269e19ee588a2c179227014640_lab2-1.jpg" data-ngdesc="Lab 2 apparatus (left to right): computer for instrumentation and data capture, storage tank, transfer line system connected to labs pressurized air supply." text="Lab 2 apparatus (left to right): computer for instrumentation and data capture, storage tank, transfer line system connected to labs pressurized air supply." >}}
 {{< image-gallery-item href="66d38fa7da2da85af8a8c4ef1d6fec80_lab2-1b.jpg" data-ngdesc="Detail of transfer line valve configuration." text="Detail of transfer line valve configuration." >}}

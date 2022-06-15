@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Detail of transfer line valve configuration. (Lab 2 image)
-file: /media/courses/2-672-project-laboratory-spring-2009/3cd864331636a0ba72b6fa36ca8573da_lab21c.jpg
+file: /courses/2-672-project-laboratory-spring-2009/3cd864331636a0ba72b6fa36ca8573da_lab21c.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,4 +16,10 @@ parent_uid: 713b619d-ad80-8a4a-69c3-88a205f93170
 resourcetype: Image
 title: Lab 2-1c
 uid: 3cd86433-1636-a0ba-72b6-fa36ca8573da
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Detail of transfer line valve configuration. (Lab 2 image)
+

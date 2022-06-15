@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting MATLAB file for the lab experiments of the course. Analysis
   of power spectrum.
-file: /media/courses/2-672-project-laboratory-spring-2009/e9c0cb83cdf4000f786543346336178b_pwrspect.m
+file: /courses/2-672-project-laboratory-spring-2009/e9c0cb83cdf4000f786543346336178b_pwrspect.m
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -14,3 +14,5 @@ resourcetype: Other
 title: pwrspect
 uid: e9c0cb83-cdf4-000f-7865-43346336178b
 ---
+Supporting MATLAB file for the lab experiments of the course. Analysis of power spectrum.
+

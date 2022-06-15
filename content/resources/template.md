@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Template for writing lab reports for the course.
-file: /media/courses/2-672-project-laboratory-spring-2009/cda4fc66ff30c54921d73e257e4810d7_template.pdf
+file: /courses/2-672-project-laboratory-spring-2009/cda4fc66ff30c54921d73e257e4810d7_template.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,10 @@ parent_uid: 0efba94d-64b2-cbfb-4346-0684ec064a4d
 resourcetype: Document
 title: Report Template
 uid: cda4fc66-ff30-c549-21d7-3e257e4810d7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Template for writing lab reports for the course.
+

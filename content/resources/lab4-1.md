@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lab 5 apparatus: vertical transfer line, computer for instrumentation
   and data capture.'
-file: /media/courses/2-672-project-laboratory-spring-2009/ae19db7445bca702e4fea3f7a4f7eb80_lab4-1.jpg
+file: /courses/2-672-project-laboratory-spring-2009/ae19db7445bca702e4fea3f7a4f7eb80_lab4-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab 5 apparatus: vertical transfer line, computer for instrumentation
@@ -18,4 +18,10 @@ parent_uid: c4a5e473-7f7d-2689-af8f-aebfe779189c
 resourcetype: Image
 title: Lab 4-1
 uid: ae19db74-45bc-a702-e4fe-a3f7a4f7eb80
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Lab 5 apparatus: vertical transfer line, computer for instrumentation and data capture.
+
