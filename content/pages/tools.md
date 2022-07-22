@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: Software and hardware tools required for the lab work.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 713b619d-ad80-8a4a-69c3-88a205f93170
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Software
@@ -21,28 +29,28 @@ Supporting Files
 
 The following MATLAB '.m' files may be useful to you as you massage the data you collect in the various experiments. If you develop other '.m' files that you think would be useful in this course, please send them to the course instructors.
 
-fitplot.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/fitplot.m))  
+fitplot.m ({{% resource_link 1da5c2ac-9df4-754f-c7d3-1ed2a3576847 "M" %}})  
 Fits n degree polynomial to input vectors xin, yin; fit coefficients in coeff.
 
-getdata.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/getdata.m))  
+getdata.m ({{% resource_link ce825e55-6d79-a2c1-f147-9e27aacceca3 "M" %}})  
 Utility to get the time and voltage trace from a data file.
 
-powerfit.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/powerfit.m))  
+powerfit.m ({{% resource_link b2b9e120-fadf-e09b-fd95-c0d5de50ce12 "M" %}})  
 Least square fit of data using linear combination of powers.
 
-pwrspect.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/pwrspect.m))  
+pwrspect.m ({{% resource_link e9c0cb83-cdf4-000f-7865-43346336178b "M" %}})  
 Analysis of power spectrum.
 
-steam\_p.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/steam_p.m))  
-Saturation properties for H2O; output saturation pressure.
+steam\_p.m ({{% resource_link 51da944b-9850-0912-255e-0f7c80f4dfb0 "M" %}})  
+Saturation properties for H{{< sub "2" >}}O; output saturation pressure.
 
-steam\_t.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/steam_t.m))  
-Saturation properties for H2O; output saturation temperature.
+steam\_t.m ({{% resource_link 6c228ef3-629a-6499-2b44-03f8d3a9ec89 "M" %}})  
+Saturation properties for H{{< sub "2" >}}O; output saturation temperature.
 
-fig\_h.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/fig_h.m))  
+fig\_h.m ({{% resource_link 5e9c850f-e43c-b044-88b5-4465d85f4c79 "M" %}})  
 Utility to make MATLAB plots better for importing into reports.
 
-H2Oprop.m ([M](/courses/mechanical-engineering/2-672-project-laboratory-spring-2009/tools/H2Oprop.m))  
+H2Oprop.m ({{% resource_link 71329adf-5ad1-20db-51bb-680d5f0b8d1a "M" %}})  
 Thermodynamic properties for water; general-purpose function
 
-A brief guide to MATLAB as used in this course is provided: ([PDF]({{< baseurl >}}/resources/labmanual-1))
+A brief guide to MATLAB as used in this course is provided: ({{% resource_link 5440e508-a101-846d-7538-e729eb3e10db "PDF" %}})

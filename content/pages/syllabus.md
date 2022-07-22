@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides information on the purpose of the course,
+  meeting times, rules, written and oral reports, grading policy, and the schedule
+  of lectures, labs, and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 95e466fb-44ad-bc86-b56d-d416f32e1dca
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -27,12 +36,12 @@ Rules
 Written Reports
 ---------------
 
-It is anticipated that all written reports in a group will have data, calculations and figures which are similar, **but will have separately written texts**. If for any reason some figures, tables, appendices or other material are copied and shared among the group, such materials should be initialed by the person who prepared the original. We want each of you to have the experience that accompanies writing a report but do not expect you to have different experimental results when you've run the same experiment. In general, each report should have enough detail so that the reader can reproduce your results. (See [Section 3]({{< baseurl >}}/pages/reports): Guide to 2.672 Report Writing.) In the last week of the first experiment, one hour will be spent in a brief workshop on report writing.
+It is anticipated that all written reports in a group will have data, calculations and figures which are similar, **but will have separately written texts**. If for any reason some figures, tables, appendices or other material are copied and shared among the group, such materials should be initialed by the person who prepared the original. We want each of you to have the experience that accompanies writing a report but do not expect you to have different experimental results when you've run the same experiment. In general, each report should have enough detail so that the reader can reproduce your results. (See {{% resource_link 0efba94d-64b2-cbfb-4346-0684ec064a4d "Section 3" %}}: Guide to 2.672 Report Writing.) In the last week of the first experiment, one hour will be spent in a brief workshop on report writing.
 
 Oral Reports
 ------------
 
-The results from your final experiment will be presented in an oral presentation by your group collectively. Oral presentations are an important part of communicating your results, so it should be a valuable experience. (See [Section 4]({{< baseurl >}}/pages/reports): Guide to 2.672 Oral Presentations.)
+The results from your final experiment will be presented in an oral presentation by your group collectively. Oral presentations are an important part of communicating your results, so it should be a valuable experience. (See {{% resource_link 0efba94d-64b2-cbfb-4346-0684ec064a4d "Section 4" %}}: Guide to 2.672 Oral Presentations.)
 
 Grading Policy
 --------------
@@ -102,7 +111,7 @@ For the first two written reports, the grading will be based half on technical c
 Calendar
 --------
 
-The calendar table illustrates the number of sessions devoted to each lab, and the due dates. See the [labs]({{< baseurl >}}/pages/labs) section for detailed information about each lab. Each lab group completes three out of seven possible experiments in a semester. The experiments involve different branches of Mechanical Engineering knowledge, so we try to assign the students for maximum exposure to heat transfer, dynamics, thermo, fluid mechanics, etc.
+The calendar table illustrates the number of sessions devoted to each lab, and the due dates. See the {{% resource_link fd614745-fc1f-6cb1-a422-ffc6befbbdd1 "labs" %}} section for detailed information about each lab. Each lab group completes three out of seven possible experiments in a semester. The experiments involve different branches of Mechanical Engineering knowledge, so we try to assign the students for maximum exposure to heat transfer, dynamics, thermo, fluid mechanics, etc.
 
 {{< tableopen >}}
 {{< theadopen >}}
