@@ -4,6 +4,7 @@ description: Guidelines and general principles for oral presentations.
 file: /courses/2-672-project-laboratory-spring-2009/860af73e174289784cd9704d82d8de6e_labmanual2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Reports
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Guidelines and general principles for oral presentations.
-

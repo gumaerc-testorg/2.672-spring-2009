@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Detail view of sensor to measure the inner pipe's resonant frequency.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 3: Heat Exchanger Tube Vibrations'
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Detail view of sensor to measure the inner pipe's resonant frequency.
-

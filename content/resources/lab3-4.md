@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Water is poured into the pipe before opening the solenoid.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 4: Pipe Clearing Fluid Transients'
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Water is poured into the pipe before opening the solenoid.
-

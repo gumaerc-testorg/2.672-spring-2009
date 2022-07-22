@@ -5,6 +5,7 @@ file: /courses/2-672-project-laboratory-spring-2009/4f6e0b96678a5be8441f7ff9c9e1
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab experiment on managing pressure surges in a low-cost irrigation system.
-

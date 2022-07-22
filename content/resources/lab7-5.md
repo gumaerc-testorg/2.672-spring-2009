@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The terminal valve is initially open, then closed quickly to create a
     pressure surge.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 7: Irrigation System Pressure Surge'
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 The terminal valve is initially open, then closed quickly to create a pressure surge.
-

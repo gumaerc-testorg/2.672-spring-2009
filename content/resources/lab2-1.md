@@ -14,6 +14,7 @@ image_metadata:
     capture, storage tank, transfer line system connected to lab''s pressurized air
     supply.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 2: Transfer Line Dynamics'
 parent_type: CourseSection
@@ -27,4 +28,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab 2 apparatus (left to right): computer for instrumentation and data capture, storage tank, transfer line system connected to lab's pressurized air supply.
-

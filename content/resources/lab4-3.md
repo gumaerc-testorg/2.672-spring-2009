@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Filling the cylinder with lead shot to simulate a sample's weight.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 5: Irradiation Sample Transfer Line Snubbing Section Behavior'
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Filling the cylinder with lead shot to simulate a sample's weight.
-

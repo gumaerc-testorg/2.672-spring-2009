@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Bringing pressurized air into the system.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 2: Transfer Line Dynamics'
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Bringing pressurized air into the system.
-

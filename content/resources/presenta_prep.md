@@ -4,6 +4,7 @@ description: Guidelines on how to prepare for oral presentations.
 file: /courses/2-672-project-laboratory-spring-2009/01d47901c9b504e8b6f774b7f383323e_presenta_prep.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Reports
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Guidelines on how to prepare for oral presentations.
-

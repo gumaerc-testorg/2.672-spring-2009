@@ -4,6 +4,7 @@ description: A list of common problems encountered when writing reports for the 
 file: /courses/2-672-project-laboratory-spring-2009/4083a715693b27e504d05272a7f8394e_problems.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Reports
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 A list of common problems encountered when writing reports for the course.
-

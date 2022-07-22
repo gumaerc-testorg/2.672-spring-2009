@@ -4,6 +4,7 @@ description: Template for writing lab reports for the course.
 file: /courses/2-672-project-laboratory-spring-2009/cda4fc66ff30c54921d73e257e4810d7_template.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Reports
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Template for writing lab reports for the course.
-

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Lab 1 apparatus: hot plate heater with silicon wafer (right), connected
     to a temperature probe (left).'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 1: Proximity Heating of Silicon Wafer'
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab 1 apparatus: hot plate heater with silicon wafer (right), connected to a temperature probe (left).
-

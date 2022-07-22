@@ -11,6 +11,7 @@ image_metadata:
   image-alt: To begin the experiment, open the water supply valve (black). Select
     the desired pipe by opening its valve.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 7: Irrigation System Pressure Surge'
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 To begin the experiment, open the water supply valve (black). Select the desired pipe by opening its valve.
-

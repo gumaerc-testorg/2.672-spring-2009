@@ -7,6 +7,7 @@ file: /courses/2-672-project-laboratory-spring-2009/5d464f261ad415f5017cbb52571e
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab experiment to develop and confirm a method of calculating the peak pressure in a containment vessel after a sudden release of liquid and vapor into it.
-

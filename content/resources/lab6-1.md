@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Lab 3 apparatus: bucket for ice water to adjust pipe temperature (upper
     left), test pipe welded within black outer pipe.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 3: Heat Exchanger Tube Vibrations'
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab 3 apparatus: bucket for ice water to adjust pipe temperature (upper left), test pipe welded within black outer pipe.
-

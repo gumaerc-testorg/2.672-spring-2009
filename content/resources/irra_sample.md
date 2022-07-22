@@ -6,6 +6,7 @@ file: /courses/2-672-project-laboratory-spring-2009/29726f1a6ebb2441cb53936e5b6f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab experiment to develop a methodology for designing a snubbing section for a transfer line in the M.I.T. reactor.
-

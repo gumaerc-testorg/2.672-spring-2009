@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab 5 apparatus: black tank as reactor vessel, pipes with valves to simulate breaks in the reactor vessel, red tank as simulated containment vessel. (Lab 5 image)
-

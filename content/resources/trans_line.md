@@ -5,6 +5,7 @@ file: /courses/2-672-project-laboratory-spring-2009/a3aa1b428731e40746299d6db33b
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab experiment on transfer line dynamics.
-

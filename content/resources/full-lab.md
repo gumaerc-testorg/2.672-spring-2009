@@ -12,6 +12,7 @@ image_metadata:
     in the picture.'
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -25,4 +26,3 @@ video_metadata:
   youtube_id: null
 ---
 Each 2.672 experiment is installed on its own bench. Lab #6 is frontmost in the picture.
-

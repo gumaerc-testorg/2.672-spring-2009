@@ -5,6 +5,7 @@ file: /courses/2-672-project-laboratory-spring-2009/548a0f397b4c7f4408d0d580bf8e
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab experiment on pipe clearing fluid transients.
-

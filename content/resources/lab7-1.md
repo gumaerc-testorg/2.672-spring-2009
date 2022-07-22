@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Lab 7 apparatus (right to left): valves for selecting different pipes,
     water supply control panel, lengths of pipe, valve with pressure gauge port.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 7: Irrigation System Pressure Surge'
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab 7 apparatus (right to left): valves for selecting different pipes, water supply control panel, lengths of pipe, valve with pressure gauge port.
-

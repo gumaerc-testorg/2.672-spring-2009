@@ -6,6 +6,7 @@ file: /courses/2-672-project-laboratory-spring-2009/53206bde99aedacc752ab18c3790
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Complete laboratory manual, containing all seven experiments of the course along with syllabus, calendar, and tools information.
-

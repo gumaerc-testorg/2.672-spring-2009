@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Lab 6 apparatus: black tank as reactor vessel, pipes with valves to
     simulate breaks in the reactor vessel, red tank as simulated containment vessel.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 6: Peak Pressure in Nuclear Containment Vessel'
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab 6 apparatus: black tank as reactor vessel, pipes with valves to simulate breaks in the reactor vessel, red tank as simulated containment vessel.
-

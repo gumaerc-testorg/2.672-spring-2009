@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Lab 5 apparatus: vertical transfer line, computer for instrumentation
     and data capture.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 5: Irradiation Sample Transfer Line Snubbing Section Behavior'
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab 5 apparatus: vertical transfer line, computer for instrumentation and data capture.
-

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Lab 4 apparatus: computer for instrumentation and data capture, air
     storage tank, pipe with bend that collects water.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lab 4: Pipe Clearing Fluid Transients'
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab 4 apparatus: computer for instrumentation and data capture, air storage tank, pipe with bend that collects water.
-
