@@ -17,7 +17,7 @@ Written Reports
 
 Guide to Lab Report Writing ({{% resource_link cd88e040-e85c-19bb-3106-a1088a718492 "PDF" %}})
 
-Report Templates: Word ({{% resource_link 2054ad98-fc7b-5a04-5b8e-ba045fafab8f "DOC" %}}), {{% resource_link "d7d0d478-60d6-4614-9393-74986670cc44" "LaTeX" %}}
+Report Templates: Word ({{% resource_link 2054ad98-fc7b-5a04-5b8e-ba045fafab8f "DOC" %}}), [LaTeX](http://iel.ucdavis.edu/code/ASME/conf-1.5.html)
 
 Page Layout Diagrams: First Page ({{% resource_link 047e4ee7-7f43-a66d-47ec-e3343bd18a41 "PDF" %}}), Text Page ({{% resource_link 68b35e1f-2600-d50d-7ad9-115d764b2b08 "PDF" %}})
 

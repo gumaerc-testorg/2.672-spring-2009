@@ -3,6 +3,7 @@ content_type: resource
 description: Hot plate with silicon wafer in initial configuration (before heating).
   (Lab 1 image)
 file: /courses/2-672-project-laboratory-spring-2009/bf3a6d389fde0f8cfce055c56f0128eb_lab12.jpg
+file_size: 2520
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: Dropping the sample into the transfer line.
 file: /courses/2-672-project-laboratory-spring-2009/a5402133a1496df73796fa3d61e77ada_lab4-4.jpg
+file_size: 72939
 file_type: image/jpeg
 image_metadata:
   caption: Dropping the sample into the transfer line.

@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting MATLAB file for the lab experiments of the course. Least square
   fit of data using linear combination of powers.
 file: /courses/2-672-project-laboratory-spring-2009/b2b9e120fadfe09bfd95c0d5de50ce12_powerfit.m
+file_size: 763
 file_type: text/plain
 learning_resource_types:
 - Tools

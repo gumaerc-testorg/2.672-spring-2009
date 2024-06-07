@@ -2,6 +2,7 @@
 content_type: resource
 description: Template for writing lab reports for the course.
 file: /courses/2-672-project-laboratory-spring-2009/2054ad98fc7b5a045b8eba045fafab8f_template.doc
+file_size: 150528
 file_type: application/msword
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

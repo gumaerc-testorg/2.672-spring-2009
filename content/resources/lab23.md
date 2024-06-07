@@ -2,6 +2,7 @@
 content_type: resource
 description: First, Valve B is opened. (Lab 2 image)
 file: /courses/2-672-project-laboratory-spring-2009/a095c627deaa78e49f2d544fabff5ab3_lab23.jpg
+file_size: 2910
 file_type: image/jpeg
 image_metadata:
   caption: ''

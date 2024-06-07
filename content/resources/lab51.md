@@ -4,6 +4,7 @@ description: 'Lab 5 apparatus: black tank as reactor vessel, pipes with valves t
   simulate breaks in the reactor vessel, red tank as simulated containment vessel.
   (Lab 5 image)'
 file: /courses/2-672-project-laboratory-spring-2009/25f73c7e887c7ff8d97c24aca504afcf_lab51.jpg
+file_size: 2788
 file_type: image/jpeg
 image_metadata:
   caption: ''
