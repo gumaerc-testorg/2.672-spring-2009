@@ -4,6 +4,7 @@ description: 'Lab 2 apparatus (left to right): computer for instrumentation and 
   capture, storage tank, transfer line system connected to lab''s pressurized air
   supply.'
 file: /courses/2-672-project-laboratory-spring-2009/af3d5c269e19ee588a2c179227014640_lab2-1.jpg
+file_size: 69291
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab 2 apparatus (left to right): computer for instrumentation and data

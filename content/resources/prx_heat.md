@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab experiment on proximity heating of a silicon wafer.
 file: /courses/2-672-project-laboratory-spring-2009/994601f0bd15da5290417d7838ab0390_prx_heat.pdf
+file_size: 380636
 file_type: application/pdf
 learning_resource_types:
 - Labs

@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lab 6 apparatus: black tank as reactor vessel, pipes with valves to
   simulate breaks in the reactor vessel, red tank as simulated containment vessel.'
 file: /courses/2-672-project-laboratory-spring-2009/1ceaea8daee9ecf2bbe57ff9d0eb5028_lab5-1.jpg
+file_size: 75726
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab 6 apparatus: black tank as reactor vessel, pipes with valves to simulate

@@ -4,6 +4,7 @@ description: Supporting MATLAB file for the lab experiments of the course. Utili
   to make MATLAB plots better for importing into reports. Utility to make MATLAB plots
   better for importing into reports.
 file: /courses/2-672-project-laboratory-spring-2009/5e9c850fe43cb04488b54465d85f4c79_fig_h.m
+file_size: 1123
 file_type: text/plain
 learning_resource_types:
 - Tools

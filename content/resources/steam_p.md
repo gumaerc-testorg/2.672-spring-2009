@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting MATLAB file for the lab experiments of the course. Saturation
   properties for H2O; output saturation pressure.
 file: /courses/2-672-project-laboratory-spring-2009/51da944b98500912255e0f7c80f4dfb0_steam_p.m
+file_size: 8758
 file_type: text/plain
 learning_resource_types:
 - Tools

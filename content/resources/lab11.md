@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lab 1 apparatus: hot plate heater with silicon wafer (right), connected
   to a temperature probe (left). (Lab 1 image)'
 file: /courses/2-672-project-laboratory-spring-2009/9405917a05e8220c7e745d39ee8252f7_lab11.jpg
+file_size: 2399
 file_type: image/jpeg
 image_metadata:
   caption: ''

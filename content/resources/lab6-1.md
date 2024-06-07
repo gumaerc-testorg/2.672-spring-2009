@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lab 3 apparatus: bucket for ice water to adjust pipe temperature (upper
   left), test pipe welded within black outer pipe.'
 file: /courses/2-672-project-laboratory-spring-2009/30dbc53fe3abe2b04cff5cb3f189cff1_lab6-1.jpg
+file_size: 72947
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab 3 apparatus: bucket for ice water to adjust pipe temperature (upper
