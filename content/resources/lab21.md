@@ -2,6 +2,7 @@
 content_type: resource
 description: Bringing pressurized air into the system. (Lab 2 image)
 file: /courses/2-672-project-laboratory-spring-2009/681b277bb9a6b110ad92e23dcbbb2f60_lab21.jpg
+file_size: 2602
 file_type: image/jpeg
 image_metadata:
   caption: ''

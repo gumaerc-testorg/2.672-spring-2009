@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lab 4 apparatus: vertical transfer line, computer for instrumentation
   and data capture. (Lab 4 image)'
 file: /courses/2-672-project-laboratory-spring-2009/3634edfc2f3828ca9356c1a1d99feb6c_lab41b.jpg
+file_size: 2327
 file_type: image/jpeg
 image_metadata:
   caption: ''

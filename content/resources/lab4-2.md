@@ -2,6 +2,7 @@
 content_type: resource
 description: Samples to be irradiated would be packaged in a cylinder like this.
 file: /courses/2-672-project-laboratory-spring-2009/ceceb5aed370358614ab5d06c96481c5_lab4-2.jpg
+file_size: 58220
 file_type: image/jpeg
 image_metadata:
   caption: Samples to be irradiated would be packaged in a cylinder like this.
