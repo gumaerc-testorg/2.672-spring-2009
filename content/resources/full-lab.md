@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Each 2.672 experiment is installed on its own bench. Lab #6 is frontmost
   in the picture.'
-file: /courses/2-672-project-laboratory-spring-2009/1e71f50341ca4edaed808517ac7a58d8_full-lab.jpg
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/1e71f50341ca4edaed808517ac7a58d8_full-lab.jpg
 file_size: 89882
 file_type: image/jpeg
 image_metadata:
