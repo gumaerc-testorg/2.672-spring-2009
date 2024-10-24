@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab experiment on managing pressure surges in a low-cost irrigation system.
-file: /courses/2-672-project-laboratory-spring-2009/4f6e0b96678a5be8441f7ff9c9e1bfa5_irri_sys.pdf
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/4f6e0b96678a5be8441f7ff9c9e1bfa5_irri_sys.pdf
 file_size: 316397
 file_type: application/pdf
 learning_resource_types:

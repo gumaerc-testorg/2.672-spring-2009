@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A brief guide to MATLAB as used in this course.
-file: /courses/2-672-project-laboratory-spring-2009/5440e508a101846d7538e729eb3e10db_labmanual.pdf
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/5440e508a101846d7538e729eb3e10db_labmanual.pdf
 file_size: 329595
 file_type: application/pdf
 learning_resource_types:
