@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab experiment on transfer line dynamics.
-file: /courses/2-672-project-laboratory-spring-2009/a3aa1b428731e40746299d6db33b369b_trans_line.pdf
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/a3aa1b428731e40746299d6db33b369b_trans_line.pdf
 file_size: 325443
 file_type: application/pdf
 learning_resource_types:

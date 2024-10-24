@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting MATLAB file for the lab experiments of the course. Thermodynamic
   properties for water; general-purpose function.
-file: /courses/2-672-project-laboratory-spring-2009/71329adf5ad120db51bb680d5f0b8d1a_H2Oprop.m
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/71329adf5ad120db51bb680d5f0b8d1a_H2Oprop.m
 file_size: 215950
 file_type: text/plain
 learning_resource_types:

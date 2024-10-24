@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: First, Valve B is opened.
-file: /courses/2-672-project-laboratory-spring-2009/bd2abc3141a710376a84b9ab0af8eb49_lab2-3.jpg
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/bd2abc3141a710376a84b9ab0af8eb49_lab2-3.jpg
 file_size: 75021
 file_type: image/jpeg
 image_metadata:
