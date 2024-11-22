@@ -7,6 +7,7 @@ description: This section features experiments that involve different branches o
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
+show_section_pages: true
 title: Labs
 uid: fd614745-fc1f-6cb1-a422-ffc6befbbdd1
 video_files:
