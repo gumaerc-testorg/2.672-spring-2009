@@ -2,7 +2,7 @@
 content_type: resource
 description: Complete laboratory manual, containing all seven experiments of the course
   along with syllabus, calendar, and tools information.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/53206bde99aedacc752ab18c379050f8_labmanual.pdf
+file: /courses/2-672-project-laboratory-spring-2009/53206bde99aedacc752ab18c379050f8_labmanual.pdf
 file_size: 841488
 file_type: application/pdf
 learning_resource_types:

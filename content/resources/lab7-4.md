@@ -2,7 +2,7 @@
 content_type: resource
 description: The water supply control panel starts water flowing, and allows the system
   to be filled and drained.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/caba895b2af4537c4b8ea4db32319832_lab7-4.jpg
+file: /courses/2-672-project-laboratory-spring-2009/caba895b2af4537c4b8ea4db32319832_lab7-4.jpg
 file_size: 66632
 file_type: image/jpeg
 image_metadata:

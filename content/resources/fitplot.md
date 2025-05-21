@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting MATLAB file for the lab experiments of the course. Fits n
   degree polynomial to input vectors xin, yin; fit coefficients in coeff.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/1da5c2ac9df4754fc7d31ed2a3576847_fitplot.m
+file: /courses/2-672-project-laboratory-spring-2009/1da5c2ac9df4754fc7d31ed2a3576847_fitplot.m
 file_size: 1020
 file_type: text/plain
 learning_resource_types:

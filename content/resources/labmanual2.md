@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and general principles for oral presentations.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/860af73e174289784cd9704d82d8de6e_labmanual2.pdf
+file: /courses/2-672-project-laboratory-spring-2009/860af73e174289784cd9704d82d8de6e_labmanual2.pdf
 file_size: 165803
 file_type: application/pdf
 learning_resource_types: []

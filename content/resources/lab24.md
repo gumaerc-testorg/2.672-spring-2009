@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Then Valve A is opened, bringing water into the line. (Lab 2 image)
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/1df543c438ba43544e478af009dc8570_lab24.jpg
+file: /courses/2-672-project-laboratory-spring-2009/1df543c438ba43544e478af009dc8570_lab24.jpg
 file_size: 2860
 file_type: image/jpeg
 image_metadata:

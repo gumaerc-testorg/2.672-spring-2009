@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lab 7 apparatus (right to left): valves for selecting different pipes,
   water supply control panel, lengths of pipe, valve with pressure gauge port.'
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/f939877846fec3f726f4028e4b4b85eb_lab7-1.jpg
+file: /courses/2-672-project-laboratory-spring-2009/f939877846fec3f726f4028e4b4b85eb_lab7-1.jpg
 file_size: 93080
 file_type: image/jpeg
 image_metadata:
