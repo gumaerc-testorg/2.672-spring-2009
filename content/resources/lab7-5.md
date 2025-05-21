@@ -2,7 +2,7 @@
 content_type: resource
 description: The terminal valve is initially open, then closed quickly to create a
   pressure surge.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/1954c60a3c6800ce4e1fb5f3b12a1651_lab7-5.jpg
+file: /courses/2-672-project-laboratory-spring-2009/1954c60a3c6800ce4e1fb5f3b12a1651_lab7-5.jpg
 file_size: 85092
 file_type: image/jpeg
 image_metadata:

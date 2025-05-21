@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hot plate with silicon wafer lowered to heating position.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/007de46f835b1a7645e43710043390c1_lab1-3.jpg
+file: /courses/2-672-project-laboratory-spring-2009/007de46f835b1a7645e43710043390c1_lab1-3.jpg
 file_size: 74576
 file_type: image/jpeg
 image_metadata:

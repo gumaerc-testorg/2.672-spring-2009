@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Detail of transfer line valve configuration.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/21bb4cbbfb9709c7f98889bfcc6c8bc4_lab22.jpg
+file: /courses/2-672-project-laboratory-spring-2009/21bb4cbbfb9709c7f98889bfcc6c8bc4_lab22.jpg
 file_size: 2626
 file_type: image/jpeg
 image_metadata:

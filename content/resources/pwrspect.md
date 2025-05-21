@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting MATLAB file for the lab experiments of the course. Analysis
   of power spectrum.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/e9c0cb83cdf4000f786543346336178b_pwrspect.m
+file: /courses/2-672-project-laboratory-spring-2009/e9c0cb83cdf4000f786543346336178b_pwrspect.m
 file_size: 680
 file_type: text/plain
 learning_resource_types:

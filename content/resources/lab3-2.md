@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Detail view of solenoid valve and water entry.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/38eafec9fe8390e12da667213bcbf47e_lab3-2.jpg
+file: /courses/2-672-project-laboratory-spring-2009/38eafec9fe8390e12da667213bcbf47e_lab3-2.jpg
 file_size: 100955
 file_type: image/jpeg
 image_metadata:

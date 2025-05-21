@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Template for writing lab reports for the course.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/2054ad98fc7b5a045b8eba045fafab8f_template.doc
+file: /courses/2-672-project-laboratory-spring-2009/2054ad98fc7b5a045b8eba045fafab8f_template.doc
 file_size: 150528
 file_type: application/msword
 learning_resource_types: []
