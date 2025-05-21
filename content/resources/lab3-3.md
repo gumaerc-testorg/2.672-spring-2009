@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Force exerted on the pipe is measured by an LVDT supported as a cantilever.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/6d25376a51c5b1be6ff3bf3eba583ed7_lab3-3.jpg
+file: /courses/2-672-project-laboratory-spring-2009/6d25376a51c5b1be6ff3bf3eba583ed7_lab3-3.jpg
 file_size: 75712
 file_type: image/jpeg
 image_metadata:

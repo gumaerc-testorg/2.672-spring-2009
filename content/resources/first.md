@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Page layout diagram for the cover page for a written report.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/047e4ee77f43a66d47ece3343bd18a41_first.pdf
+file: /courses/2-672-project-laboratory-spring-2009/047e4ee77f43a66d47ece3343bd18a41_first.pdf
 file_size: 70582
 file_type: application/pdf
 learning_resource_types: []

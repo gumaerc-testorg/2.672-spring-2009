@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lab 5 apparatus: vertical transfer line, computer for instrumentation
   and data capture.'
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/ae19db7445bca702e4fea3f7a4f7eb80_lab4-1.jpg
+file: /courses/2-672-project-laboratory-spring-2009/ae19db7445bca702e4fea3f7a4f7eb80_lab4-1.jpg
 file_size: 71145
 file_type: image/jpeg
 image_metadata:

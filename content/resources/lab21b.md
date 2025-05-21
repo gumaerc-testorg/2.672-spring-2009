@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lab 2 apparatus (left to right): computer for instrumentation and data
   capture, storage tank, transfer line system connected to lab''s pressurized air
   supply. (Lab 2 image)'
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/7d8c7a8307abcb181069e812a189e467_lab21b.jpg
+file: /courses/2-672-project-laboratory-spring-2009/7d8c7a8307abcb181069e812a189e467_lab21b.jpg
 file_size: 2994
 file_type: image/jpeg
 image_metadata:

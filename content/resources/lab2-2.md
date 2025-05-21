@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Before starting, purge the system of any pressurized water or air.
-file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/5de1e5b4c455fde562d9ea964977913b_lab2-2.jpg
+file: /courses/2-672-project-laboratory-spring-2009/5de1e5b4c455fde562d9ea964977913b_lab2-2.jpg
 file_size: 68534
 file_type: image/jpeg
 image_metadata:
