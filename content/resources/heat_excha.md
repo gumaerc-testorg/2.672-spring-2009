@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Lab experiment on heat exchanger tube vibrations.
-file: /courses/2-672-project-laboratory-spring-2009/cd13cb2a88a835e951c3ba9208a61792_heat_excha.pdf
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/cd13cb2a88a835e951c3ba9208a61792_heat_excha.pdf
 file_size: 409021
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

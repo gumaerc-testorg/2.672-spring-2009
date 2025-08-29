@@ -2,7 +2,7 @@
 content_type: resource
 description: To begin the experiment, open the water supply valve (black). Select
   the desired pipe by opening its valve.
-file: /courses/2-672-project-laboratory-spring-2009/e18064fc8048613310ee5991d4b60aab_lab7-2.jpg
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/e18064fc8048613310ee5991d4b60aab_lab7-2.jpg
 file_size: 89181
 file_type: image/jpeg
 image_metadata:

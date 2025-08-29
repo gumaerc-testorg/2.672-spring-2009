@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on how to prepare for oral presentations.
-file: /courses/2-672-project-laboratory-spring-2009/01d47901c9b504e8b6f774b7f383323e_presenta_prep.pdf
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/01d47901c9b504e8b6f774b7f383323e_presenta_prep.pdf
 file_size: 116511
 file_type: application/pdf
 learning_resource_types: []
