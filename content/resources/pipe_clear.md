@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Lab experiment on pipe clearing fluid transients.
-file: /courses/2-672-project-laboratory-spring-2009/548a0f397b4c7f4408d0d580bf8e25d8_pipe_clear.pdf
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/548a0f397b4c7f4408d0d580bf8e25d8_pipe_clear.pdf
 file_size: 301398
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

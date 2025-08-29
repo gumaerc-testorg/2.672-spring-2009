@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on writing lab reports for the course.
-file: /courses/2-672-project-laboratory-spring-2009/cd88e040e85c19bb3106a1088a718492_labmanual.pdf
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/cd88e040e85c19bb3106a1088a718492_labmanual.pdf
 file_size: 160138
 file_type: application/pdf
 learning_resource_types: []
