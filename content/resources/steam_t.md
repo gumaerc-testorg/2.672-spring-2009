@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting MATLAB file for the lab experiments of the course. Saturation
   properties for H2O; output saturation temperature.
-file: /courses/2-672-project-laboratory-spring-2009/6c228ef3629a64992b4403f8d3a9ec89_steam_t.m
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/6c228ef3629a64992b4403f8d3a9ec89_steam_t.m
 file_size: 8687
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Water is poured into the pipe before opening the solenoid. (Lab 3 image)
-file: /courses/2-672-project-laboratory-spring-2009/65971b69e76ca502ce8abf4c41c6a8f4_lab34.jpg
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/65971b69e76ca502ce8abf4c41c6a8f4_lab34.jpg
 file_size: 2778
 file_type: image/jpeg
 image_metadata:

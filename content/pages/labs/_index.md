@@ -5,7 +5,7 @@ description: This section features experiments that involve different branches o
   mechanics, etc. The image galleries below illustrate some of the equipment used
   in each of the experiments.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 show_section_pages: true
 title: Labs

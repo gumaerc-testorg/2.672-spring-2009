@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Filling the cylinder with lead shot to simulate a sample's weight.
-file: /courses/2-672-project-laboratory-spring-2009/76de840e38efe953d6139db80ebaaf85_lab4-3.jpg
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/76de840e38efe953d6139db80ebaaf85_lab4-3.jpg
 file_size: 58953
 file_type: image/jpeg
 image_metadata:

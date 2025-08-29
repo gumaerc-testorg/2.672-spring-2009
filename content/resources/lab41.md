@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Detail view of light sensors at bottom of transfer line. (Lab 4 image)
-file: /courses/2-672-project-laboratory-spring-2009/d1115752765d5202c74ee33b49046318_lab41.jpg
+file: /ol-ocw-studio-app/courses/2-672-project-laboratory-spring-2009/d1115752765d5202c74ee33b49046318_lab41.jpg
 file_size: 2574
 file_type: image/jpeg
 image_metadata:
